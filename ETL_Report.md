@@ -37,7 +37,7 @@ We showed out removal of non-violent crimes in the city of Los Angeles to show t
 
 ## Load
 
-Finally, to join all our dataframes we used pandas .merge and one by one we created our large table of four cities and their counts of major violent crimes.
+Finally, to join all our dataframes we used pandas ``.merge`` and one by one we created our large table of four cities and their counts of major violent crimes.
 
 
 ![alt text][logo2]
