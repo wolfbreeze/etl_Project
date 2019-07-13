@@ -22,9 +22,9 @@ Our cleaning protocol started in Excel by reformatting every record&#39;s time f
 
 In Jupyter Notebooks we used python and pandas to pull the CSV data into panda DataFrames.
 
-Then using &quot;.replace&quot; we generalized the listed crimes to our four general violent crimes. (Homicide, Rape, Robbery, Aggravated Assault)
+Then using -- .replace-- we generalized the listed crimes to our four general violent crimes. (Homicide, Rape, Robbery, Aggravated Assault)
 
-Individually, each city dataframe was run through &quot;.value\_counts(dropna=True, sort=True)&quot; leaving us with a dataframe with three columns and four data rows. Primary Key, Crime type, Counts. This line of code also renamed our columns, leaving four dataframes like this:
+Individually, each city dataframe was run through -- .value\_counts(dropna=True, sort=True)-- leaving us with a dataframe with three columns and four data rows. Primary Key, Crime type, Counts. This line of code also renamed our columns, leaving four dataframes like this:
 
 We showed out removal of non-violent crimes in the city of Los Angeles to show that it could be done in pandas as well as Excel.
 
