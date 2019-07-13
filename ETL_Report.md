@@ -38,7 +38,7 @@ We showed out removal of non-violent crimes in the city of Los Angeles to show t
 
 ## Load
 
-Finally, to join all our dataframes we used pandas ``.merge`` and one by one we created our large table of four cities and their counts of major violent crimes. We chose to use ``.merge`` in pandas as we wanted to watch the table grow as we added each city. We know we could have used a for loop and in just as many lines of code the final table would have been formed but again we wanted to watch the table grows and we merged each dataform in.
+Finally, to join all our dataframes we used pandas ``.merge``. This was successful and easy as our Primary Key was "Crime Type". One by one we created our large table of four cities and their counts of major violent crimes. We chose to use ``.merge`` in pandas as we wanted to watch the table grow as we added each city. We know we could have used a for loop and in just as many lines of code the final table would have been formed but again we wanted to watch the table grows and we merged each dataform in.
 
 
 ![alt text][logo2]
