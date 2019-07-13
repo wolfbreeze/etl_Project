@@ -32,6 +32,7 @@ Individually, each city dataframe was run through `` .value\_counts(dropna=True,
 [logo]: https://raw.githubusercontent.com/wolfbreeze/etl_Project/master/Resources/Screen%20Shot%202019-07-13%20at%2011.17.59%20AM.png "Logo Title Text 2"
 
 We showed out removal of non-violent crimes in the city of Los Angeles to show that it could be done in pandas as well as Excel.
+**Note:** Boston had no report in this date of Sexual Assult or Rape. We had to add a line of append code ``boston_df = boston_df.append({'crime_type' : 'Rape' , 'counts' : 'NaN'} , ignore_index=True)`` to add the row of data to the table so the Boston dataframe was equal in data to the other dataframes. If we did not add this row we would have had errors when we merged the data to our final table.
 
 
 
