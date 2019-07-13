@@ -20,7 +20,7 @@ After scouring the internet for different sets of data, we pulled crime data for
 
 Our cleaning protocol started in Excel by reformatting every record&#39;s time from a MMDDYY to YYYY. Next, we filtered out all the petty and non-violent crimes. We saved this data into CSV and uploaded to GitHub.
 
-In Jupyter Notebooks we used python and pandas to pull the CSV data into panda DataFrames.
+In [Jupyter Notebooks](ETL_Crimes.ipynb) we used python and pandas to pull the CSV data into panda DataFrames.
 
 Then using ``.replace`` we generalized the listed crimes to our four general violent crimes. (Homicide, Rape, Robbery, Aggravated Assault)
 
