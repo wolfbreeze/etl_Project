@@ -1,7 +1,7 @@
 # ETL Project Summary
 
 ## Extract
-Our data source for the project will be CSV files Metro Crime Reports from Kaggle.com of 3 Major Cities.(Denver, Philadelphia, Boston & Los Angeles)
+Our data source for the project will be CSV files Metro Crime Reports from Kaggle.com of 4 Major Cities.(Denver, Philadelphia, Boston & Los Angeles)
 
 1.  [https://www.kaggle.com/paultimothymooney/denver-crime-data](https://www.kaggle.com/paultimothymooney/denver-crime-data)
 2.  [https://www.kaggle.com/mchirico/philadelphiacrimedata](https://www.kaggle.com/mchirico/philadelphiacrimedata)
