@@ -6,11 +6,11 @@
 
 ## Extract
 
-After scouring the internet for different sets of data, we pulled crime data for 4 major cities (Denver, Philadelphia, Boston &amp; Los Angeles) from Kaggle.com
+After scouring the internet for different sets of data, we pulled crime data for 4 major cities from Kaggle.com
 
-1.  Denver [https://www.kaggle.com/paultimothymooney/denver-crime-data](https://www.kaggle.com/paultimothymooney/denver-crime-data)
+1.  Denver (https://www.kaggle.com/paultimothymooney/denver-crime-data)
 
-2.  Phiadelphia [https://www.kaggle.com/mchirico/philadelphiacrimedata](https://www.kaggle.com/mchirico/philadelphiacrimedata)
+2.  Phiadelphia (https://www.kaggle.com/mchirico/philadelphiacrimedata)
 
 3.  Los Angeles [https://www.kaggle.com/cityofLA/crime-in-los-angeles](https://www.kaggle.com/cityofLA/crime-in-los-angeles)
 
