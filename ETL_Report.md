@@ -1,4 +1,4 @@
-**ETL Project Report**
+## **ETL Project Report**
 
 **Team:** Pramit Ghosh, Ileri Onabanjo, Bill Ulrich
 
