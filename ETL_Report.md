@@ -26,6 +26,11 @@ Then using ``.replace`` we generalized the listed crimes to our four general vio
 
 Individually, each city dataframe was run through `` .value\_counts(dropna=True, sort=True)`` leaving us with a dataframe with three columns and four data rows. Primary Key, Crime type, Counts. This line of code also renamed our columns, leaving four dataframes like this:
 
+
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/wolfbreeze/etl_Project/master/Resources/Screen%20Shot%202019-07-13%20at%2011.17.59%20AM.png "Logo Title Text 2"
+
 We showed out removal of non-violent crimes in the city of Los Angeles to show that it could be done in pandas as well as Excel.
 
 
@@ -33,3 +38,8 @@ We showed out removal of non-violent crimes in the city of Los Angeles to show t
 ## Load
 
 Finally, to join all our dataframes we used pandas .merge and one by one we created our large table of four cities and their counts of major violent crimes.
+
+
+![alt text][logo2]
+
+[logo2]: https://raw.githubusercontent.com/wolfbreeze/etl_Project/master/Resources/Screen%20Shot%202019-07-13%20at%2011.45.39%20AM.png "Logo Title Text 2"
